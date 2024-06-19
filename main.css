@@ -108,6 +108,12 @@ body{
 .duo:hover{
     background-color: #629509;
 }
+.solo{
+    background-color: #005670;
+}
+.solo:hover{
+    background-color: #00205b;
+}
 .studocu{
     background-color: rgb(32, 9, 9);
 }
